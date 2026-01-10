@@ -1,0 +1,19 @@
+{
+  "name": "recoveryiq-backend",
+  "version": "1.0.0",
+  "description": "RecoveryIQ Backend Service",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@mui/icons-material": "^7.3.7",
+    "@mui/material": "^7.3.7",
+    "axios": "^1.13.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "framer-motion": "^12.25.0",
+    "uuid": "^9.0.1"
+  }
+}
